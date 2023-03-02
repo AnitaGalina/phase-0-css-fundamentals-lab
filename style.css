@@ -17,10 +17,15 @@ header{
 p{
   width: 800px;
   vertical-align: auto;
+  text-align: center;
 }
 div{
   float: left;
   background-color: blueviolet;
   width: 25%;
 }
-
+a{
+  background-color: red;
+  padding-left: 10px;
+  padding-right: 10px;
+}
